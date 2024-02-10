@@ -14,4 +14,3 @@ Sur ce profile GitHub vous y trouverez tous mes projets de mes débuts jusqu'à 
 
 ## Statistiques
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanAgu&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAgu&layout=compact)
