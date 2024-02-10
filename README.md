@@ -1,19 +1,17 @@
-### Hi there 👋
+### Bonjour 👋
 
-<!--
-**NathanAgu/NathanAgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Présentation
+Je suis Nathan un élève en première année de BTS Services Informatiques aux Organisations (SIO), j'ai choisi l'option solutions
+logicielles et applications métiers (SLAM) dans l'optique de faire du développement mon métier.
+Sur ce profile GitHub vous y trouverez tous mes projets de mes débuts jusqu'à maintenant.
 
-Here are some ideas to get you started:
+## Langages
+- Html/CSS
+- JavaScript
+- Php
+- C#
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+## Statistiques
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanAgu&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAgu&layout=compact)
