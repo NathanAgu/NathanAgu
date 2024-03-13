@@ -6,7 +6,7 @@ Sur ce profile GitHub vous y trouverez tous mes projets de mes débuts jusqu'à 
 ## Langages
 - Html/CSS
 - JavaScript
-- <img url="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"> Php
+- Php
 - C#
 - Python
 
