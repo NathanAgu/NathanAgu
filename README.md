@@ -6,7 +6,7 @@ Sur ce profile GitHub vous y trouverez tous mes projets de mes débuts jusqu'à 
 ## Langages
 - Html/CSS
 - JavaScript
-- Php
+- [fa=php /] Php
 - C#
 - Python
 
