@@ -1,10 +1,10 @@
 ## 👋 Bonjour, je suis Nathan AGU
 
-# À propos de moi
+### À propos de moi
 - Développeur web
 - Etudiant BTS SIO
 
-## Langages
+### Langages
 - JavaScript
 - Php
 - C#
