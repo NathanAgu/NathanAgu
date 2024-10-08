@@ -9,6 +9,3 @@ Sur ce profile GitHub vous y trouverez tous mes projets de mes débuts jusqu'à 
 - Php
 - C#
 - Python
-
-## Statistiques
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanAgu&show_icons=true&theme=transparent)
