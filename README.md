@@ -1,8 +1,8 @@
-## 👋 Bonjour, je suis Nathan AGU
+## 👋 Hello, I'm Nathan
 
-### À propos de moi
-- Développeur web
-- Etudiant BTS SIO
+### About me
+- Web Developer
+- Student BTS SIO
 
-### Langages
-[![My Skills](https://skillicons.dev/icons?i=php,js,c#)](https://skillicons.dev)
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=php,js,cs,py,git,boostrap,linux,windows,obsidian,vscode,visualstudio,raspberrypi)](https://skillicons.dev)
