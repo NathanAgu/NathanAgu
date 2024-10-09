@@ -5,7 +5,4 @@
 - Etudiant BTS SIO
 
 ### Langages
-- JavaScript
-- Php
-- C#
-- Python
+[![My Skills](https://skillicons.dev/icons?i=php,js,c#)](https://skillicons.dev)
