@@ -1,3 +1,4 @@
+>img src="https://media.licdn.com/dms/image/v2/D4E16AQGDpyZVtCFWWg/profile-displaybackgroundimage-shrink_350_1400/B4EZWkPyAYHUAY-/0/1742217358191?e=1747872000&v=beta&t=Z8XmK1t4mSRzErdx7iffgA5G_JCsUGWQhEc4lU9WgX4">
 ## 👋 Bonjour, Je suis Nathan AGU
 
 ### À propos
