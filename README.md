@@ -2,6 +2,4 @@
 
 ## 👋 Bonjour, je suis Nathan
 ### Compétences
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,wordpress,py,js,discordjs,express,cs)](https://skillicons.dev) \n
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,git,github,docker,postman,discord,figma,obsidian)](https://skillicons.dev) \n
-[![My Skills](https://skillicons.dev/icons?i=linux,debian,mint,windows,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,wordpress,py,js,ts,nodejs,discordjs,express,cs,vscode,visualstudio,git,github,docker,mysql,postman,discord,figma,obsidian,linux,debian,mint,windows,raspberrypi)](https://skillicons.dev)
