@@ -4,7 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,php,py,js,ts,cs)](https://skillicons.dev)
 
 ## 🧠 Backend
-[![My Skills](https://skillicons.dev/icons?i=express,nodejs,discordjs,mysql,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,discordjs,mysql,wordpress,dotnet)](https://skillicons.dev)
 
 ## 🎨 Frontend
 [![My Skills](https://skillicons.dev/icons?i=vue,wordpress,figma)](https://skillicons.dev)
