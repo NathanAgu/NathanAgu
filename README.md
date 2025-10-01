@@ -1,5 +1,5 @@
-## Skills
-💬 Langages : 
+# Skills
+##💬 Langages : 
 [![My Skills](https://skillicons.dev/icons?i=html,css,php,py,js,ts,cs)](https://skillicons.dev)
 
 ## 🧠 Backend
